@@ -1,4 +1,4 @@
-package com.example.android3200starterapplication;
+package com.example.phoneapp;
 
 import org.junit.Test;
 

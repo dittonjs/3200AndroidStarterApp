@@ -1,4 +1,4 @@
-package com.example.watchstarter;
+package com.example.watchapp;
 
 import org.junit.Test;
 
