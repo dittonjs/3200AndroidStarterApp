@@ -1,0 +1,4 @@
+include ':WatchStarter'
+include ':API'
+include ':PhoneStarter'
+rootProject.name = "Android3200StarterApplication"
