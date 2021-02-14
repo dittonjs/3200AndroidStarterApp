@@ -11,8 +11,8 @@ Hi class! As some of you have noticed, the hardest thing we might do all semeste
 To get starting doing development you need follow these steps:
 
 1. Download the starter code.
-2. Rename the Modules to be something appropriate for the project.
-3. Change the package name for each project
+2. Rename the Modules and entire Project to be something appropriate for the project.
+3. Change the package name for each module
 4. Create a project in firebase
 5. Create 2 apps in Firebase, one for the Phone App and another for the Watch App
 6. Download the google-services.json files for each app and put the in the proper place.
