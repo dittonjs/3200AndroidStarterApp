@@ -4,7 +4,7 @@ Hi class! As some of you have noticed, the hardest thing we might do all semeste
 1. A phone app
 2. A watch app
 3. An API module
-4. Dependencies for Firebase, Databinding, and LifeCylce
+4. Dependencies for Firebase, DataBinding, and LifeCycle
 5. Any code we write in class that is generally reusable.
 
 ## Setup
