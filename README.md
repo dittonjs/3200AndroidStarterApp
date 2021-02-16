@@ -30,6 +30,6 @@ To get starting doing development you need follow these steps (Your project tree
 1. Enable the Real Time Database feature of firebase
 1. Run each app and make sure they launch. (If you didn't do the previous step correctly you will get an error)
 1. In your firebase console verify that you see the values `phoneAppVerified: true` and `watchAppVerified: true`
-  
+1. Delete the hidden `.git` folder in the project root then you can push set up the project to push up to your own git repo.
 
 Thats it, all of the dependencies are already added and linked for you!
